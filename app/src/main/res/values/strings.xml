@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Mobile Development Trivia</string>
+    <string name="app_welcome">Welcome</string>
+
+    <string name="missing_username">Please enter your name</string>
+    <string name="app_username">Name</string>
+    <string name="my_data">Regina Espinosa Gonzalez 20197791</string>
+    <string name="btn_start">Start</string>
+    <string name="question1">Select a feature that does not represent data binding</string>
+    <string name="q1_opt1">The support is added in the existing files</string>
+    <string name="q1_opt2">Represents a join between layout and fragments</string>
+    <string name="q1_opt3">findViewById(R.id.name_text) is not necessary any longer, which causes a faster development" </string>
+    <string name="btn_submit">Submit</string>
+    <string name="btn_next_question">Go to the next question</string>
+    <string name="app_result">Result</string>
+    <string name="trivia_end">You did it!</string>
+    <string name="trivia_score">Your Score is 2 out of 3</string>
+    <string name="btn_finish">Finish</string>
+
+    Welcome %1$s the Universe dictates to keep the following number close to you: %2$d
+    <string name="trivia_result">Your Score is %2$d out of %2$d.</string>
+</resources>
